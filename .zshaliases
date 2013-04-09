@@ -1,0 +1,6 @@
+#General 
+
+alias l='ls -al'
+alias st='sublime-text'
+alias stalias='sublime-text .zshaliases'
+alias home='cd ~'
